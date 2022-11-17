@@ -250,6 +250,8 @@ local astro_plugins = {
     event = "BufWritePost",
     config = function() require "configs.session_manager" end,
   },
+  ["beyondmarc/opengl.vim"]={}
+  ,
 }
 
 if astronvim.updater.snapshot then
@@ -289,3 +291,5 @@ if status_ok then
     }),
   }
 end
+
+

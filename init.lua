@@ -1,12 +1,5 @@
 local impatient_ok, impatient = pcall(require, "impatient")
 
-vim.cmd [[
-
-  set whichwrap+=<,>,h,l,[,] "To make left or right arrow key to switch line
-  inoremap jj <ESC>
-  inoremap <delete> <backspace>
-  set mouse
-]]
 
 
 if impatient_ok then impatient.enable_profile() end
@@ -25,3 +18,17 @@ for _, source in ipairs {
 end
 
 astronvim.conditional_func(astronvim.user_plugin_opts("polish", nil, false))
+
+vim.cmd [[
+
+  set whichwrap+=<,>,h,l,[,] "To make left or right arrow key to switch line
+  inoremap jj <ESC>
+  inoremap <delete> <backspace>
+  set mouse=
+  set clipboard=unnamedplus
+  " nnoremap <C-x> :hi normal guibg=00000 <CR>  
+  
+
+
+]]
+
