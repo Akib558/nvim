@@ -1,0 +1,1 @@
+{"metrics":{"start_time":1705762170653,"completion_time":1705762256870},"links":{"bin":{"intelephense":"node_modules\/.bin\/intelephense"},"opt":{},"share":{"mason-schemas\/lsp\/intelephense.json":"mason-schemas\/lsp.json"}},"name":"intelephense","schema_version":"1.1","secondary_sources":[],"primary_source":{"type":"registry+v1","id":"pkg:npm\/intelephense@1.10.2"}}

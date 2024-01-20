@@ -1,0 +1,8 @@
+[INFO  Sun 14 Jan 2024 03:33:43 PM +06] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed catppuccin.lua successfully
+[INFO  Wed 17 Jan 2024 09:22:24 PM +06] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed material.lua successfully
+[INFO  Fri 19 Jan 2024 12:40:23 AM +06] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Fri 19 Jan 2024 12:40:23 AM +06] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Fri 19 Jan 2024 12:55:27 AM +06] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Sat 20 Jan 2024 09:26:07 PM +06] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed colorizer.lua successfully
+[ERROR Sat 20 Jan 2024 09:55:27 PM +06] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:722: Error opening file: vim/_editor.lua:0: nvim_exec2(): Vim(edit):E308: Warning: Original file may have been changed
+[ERROR Sat 20 Jan 2024 09:55:58 PM +06] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:722: Error opening file: vim/_editor.lua:0: nvim_exec2(): Vim(buffer):E308: Warning: Original file may have been changed

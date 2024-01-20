@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/akib/DEKACORE/Documents/Coding_Section/Laravel/Export-Import'
+let g:netrw_dirhist_9='/home/akib/.config/nvim'
+let g:netrw_dirhist_8='/home/akib/DEKACORE/Documents/Coding_Section/Laravel/Export-Import'
+let g:netrw_dirhist_7='/home/akib/.config/nvim'
+let g:netrw_dirhist_6='/home/akib/DEKACORE/Documents/Coding_Section/Problem_solving'
+let g:netrw_dirhist_5='/home/akib/DEKACORE/Documents/Coding_Section/Laravel/Export-Import'
+let g:netrw_dirhist_4='/home/akib/.config/nvim'
+let g:netrw_dirhist_3='/home/akib/DEKACORE/Documents/Coding_Section/MERN/Node/DemoProject'
+let g:netrw_dirhist_2='/home/akib/.config/nvim'
+let g:netrw_dirhist_1='/home/akib/DEKACORE/Documents/Coding_Section/Laravel/Export-Import'
