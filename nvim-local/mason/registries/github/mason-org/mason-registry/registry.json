@@ -2669,7 +2669,7 @@
       "Linter"
     ],
     "source": {
-      "id": "pkg:github/editorconfig-checker/editorconfig-checker@2.7.2",
+      "id": "pkg:github/editorconfig-checker/editorconfig-checker@2.8.0",
       "asset": [
         {
           "target": "darwin_arm64",
@@ -5884,7 +5884,7 @@
       "LSP"
     ],
     "source": {
-      "id": "pkg:github/JohnnyMorganz/luau-lsp@1.27.0",
+      "id": "pkg:github/JohnnyMorganz/luau-lsp@1.27.1",
       "asset": [
         {
           "target": [
@@ -9807,7 +9807,7 @@
       "Formatter"
     ],
     "source": {
-      "id": "pkg:github/johnnymorganz/stylua@v0.19.1",
+      "id": "pkg:github/johnnymorganz/stylua@v0.20.0",
       "asset": [
         {
           "target": "darwin_arm64",
