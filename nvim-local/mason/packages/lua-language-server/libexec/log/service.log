@@ -1,9 +1,9 @@
-[13:19:01.108][info] [#0:/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/main.lua:66]: Lua Lsp startup, root: 	/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec
-[13:19:01.108][info] [#0:/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/main.lua:67]: ROOT:	/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec
-[13:19:01.108][info] [#0:/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/main.lua:68]: LOGPATH:	/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/log
-[13:19:01.108][info] [#0:/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/main.lua:69]: METAPATH:	/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/meta
-[13:19:01.108][info] [#0:/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/main.lua:70]: VERSION:	3.7.4
-[13:19:01.177][info] [#0:script/service/service.lua:144]: 
+[11:05:48.376][info] [#0:/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/main.lua:66]: Lua Lsp startup, root: 	/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec
+[11:05:48.376][info] [#0:/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/main.lua:67]: ROOT:	/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec
+[11:05:48.376][info] [#0:/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/main.lua:68]: LOGPATH:	/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/log
+[11:05:48.376][info] [#0:/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/main.lua:69]: METAPATH:	/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/meta
+[11:05:48.376][info] [#0:/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/main.lua:70]: VERSION:	3.7.4
+[11:05:48.404][info] [#0:script/service/service.lua:144]: 
 ========= Medical Examination Report =========
     --------------- Memory ---------------
         Total: 1.346 MB
@@ -25,7 +25,7 @@
         Holdon:   0
         Waiting:  0
 ==============================================
-[13:19:01.187][info] [#0:script/client.lua:657]: Client init	{
+[11:05:48.409][info] [#0:script/client.lua:657]: Client init	{
   capabilities = {
     textDocument = {
       callHierarchy = {
@@ -184,7 +184,7 @@
     version = "0.9.1"
   },
   initializationOptions = {},
-  processId = 158931,
+  processId = 50474,
   rootPath = "/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim",
   rootUri = "file:///home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim",
   trace = "off",
@@ -193,7 +193,7 @@
       uri = "file:///home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim"
     } }
 }
-[13:19:01.187][info] [#0:script/language.lua:137]: VSC language: nil
-[13:19:01.187][info] [#0:script/language.lua:138]: LS  language: en-us
-[13:19:01.187][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim
-[13:19:01.187][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/log/file_home_akib_DEKACORE_Documents_GIT_neovim-conf_nvim.log
+[11:05:48.410][info] [#0:script/language.lua:137]: VSC language: nil
+[11:05:48.410][info] [#0:script/language.lua:138]: LS  language: en-us
+[11:05:48.410][info] [#0:script/workspace/workspace.lua:38]: Workspace init root: 	file:///home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim
+[11:05:48.410][info] [#0:script/workspace/workspace.lua:42]: Log path: 	/home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/mason/packages/lua-language-server/libexec/log/file_home_akib_DEKACORE_Documents_GIT_neovim-conf_nvim.log

@@ -8,3 +8,14 @@
 [ERROR Sat 20 Jan 2024 09:55:58 PM +06] ...hare/nvim/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:722: Error opening file: vim/_editor.lua:0: nvim_exec2(): Vim(buffer):E308: Warning: Original file may have been changed
 [INFO  Sun 21 Jan 2024 10:45:09 AM +06] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed mini.indentscope.lua successfully
 [INFO  Sun 21 Jan 2024 11:39:45 AM +06] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed mini-indentscope.lua successfully
+[INFO  Mon 22 Jan 2024 02:58:48 AM +06] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Mon 22 Jan 2024 02:58:48 AM +06] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[ERROR Tue 23 Jan 2024 12:19:52 PM +06] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:309: /home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/lazy/LazyVim :  ENOENT: no such file or directory: /home/akib/DEKACORE/Documents/GIT/neovim-conf/nvim-local/lazy/LazyVim
+[INFO  Wed 24 Jan 2024 11:09:04 AM +06] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Wed 24 Jan 2024 11:09:04 AM +06] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: false
+[INFO  Wed 24 Jan 2024 11:09:05 AM +06] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Wed 24 Jan 2024 11:09:06 AM +06] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: false
+[INFO  Wed 24 Jan 2024 11:09:07 AM +06] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Wed 24 Jan 2024 11:09:11 AM +06] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: false
+[INFO  Wed 24 Jan 2024 11:17:51 AM +06] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
+[INFO  Wed 24 Jan 2024 09:35:09 PM +06] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:238: Toggling hidden files: true
